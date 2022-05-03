@@ -52,3 +52,11 @@ header img{
 header h1{
     padding-left: 30px;
 }
+
+footer{
+    background: black;
+    color: deeppink;
+    width: 100%;
+    text-align: right;
+    padding-right: 100px;
+}
